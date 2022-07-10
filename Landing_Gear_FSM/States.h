@@ -29,7 +29,7 @@ typedef enum State
 	CHK_BFR_LND,
 	LWRNG_GR
 
-}State_Type;
+}State_Type;//enum to control current state variable
 
 typedef enum Switch
 {
